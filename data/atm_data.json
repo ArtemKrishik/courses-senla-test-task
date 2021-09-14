@@ -1,0 +1,28 @@
+{
+  "atm": {
+    "balance": 250000.0
+  },
+  "cards": [
+    {
+      "cardNumber": "4255-2003-0142-4917",
+      "password": "1234",
+      "balance": 5000.0,
+      "numberOfUnsuccessfulAttempts": 0,
+      "isBlocked": false
+    },
+    {
+      "cardNumber": "4024-0071-2387-4108",
+      "password": "5678",
+      "balance": 17000.0,
+      "numberOfUnsuccessfulAttempts": 0,
+      "isBlocked": false
+    },
+    {
+      "cardNumber": "4255-2005-7234-5678",
+      "password": "9012",
+      "balance": 26000.0,
+      "numberOfUnsuccessfulAttempts": 0,
+      "isBlocked": false
+    }
+  ]
+}
